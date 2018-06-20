@@ -1,0 +1,9 @@
+This folder contains three data files:
+
+	* peoplepoints: A CSV file of historical point data on New Orleans residens
+	* ACSCtyDat_2014ACS_simplify: A shapefile of U.S. Counties with data from the 2010-14 American Community Survey
+	* LandCover_GA_wgs: A geotiff file from the National Land Cover Database (NLCD)showing classified land use for Georgia.(https://www.mrlc.gov/nlcd11_data.php)
+
+Also included are metadata for the county shapefile showing a description for the variable names, two HTML files with metadata for the land cover data, and a QGIS style layout for classifying the NLCD data (nlcd_class). 
+
+The Mapping with QGIS class will go over how to load and style these datasets.
